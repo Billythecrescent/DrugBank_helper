@@ -1,0 +1,1480 @@
+Created by MC.Hou's program at 2019-03-13 21:59:51.
+There are 195 search results about lever_cancer by DrugBankSpider.
+
+
+Indication:
+Pain, Cancer https://www.drugbank.ca/indications/DBCOND0040613
+Drugs:
+Methotrimeprazine https://www.drugbank.ca/DB01403
+
+
+Indication:
+Colorectal Cancers https://www.drugbank.ca/indications/DBCOND0063246
+Drugs:
+Acetylsalicylic acid https://www.drugbank.ca/DB00945
+Pembrolizumab https://www.drugbank.ca/DB09037
+
+
+Indication:
+Recurrent Ovarian Cancer https://www.drugbank.ca/indications/DBCOND0052931
+Drugs:
+Anastrozole https://www.drugbank.ca/DB01217
+
+
+Indication:
+Breast Cancer, Metastatic Breast Cancer https://www.drugbank.ca/indications/DBCOND0075188
+Drugs:
+Conjugated estrogens https://www.drugbank.ca/DB00286
+
+
+Indication:
+Ovarian Epithelial Cancer https://www.drugbank.ca/indications/DBCOND0054935
+Drugs:
+Letrozole https://www.drugbank.ca/DB01006
+Melphalan https://www.drugbank.ca/DB01042
+Niraparib https://www.drugbank.ca/DB11793
+Olaparib https://www.drugbank.ca/DB09074
+
+
+Indication:
+Ovarian Cancer Metastatic https://www.drugbank.ca/indications/DBCOND0068543
+Drugs:
+Cisplatin https://www.drugbank.ca/DB00515
+Docetaxel https://www.drugbank.ca/DB01248
+Doxorubicin https://www.drugbank.ca/DB00997
+Hydroxyurea https://www.drugbank.ca/DB01005
+
+
+Indication:
+Metastatic Testicular cancer https://www.drugbank.ca/indications/DBCOND0021456
+Drugs:
+Cisplatin https://www.drugbank.ca/DB00515
+
+
+Indication:
+Advanced Ovarian Cancer https://www.drugbank.ca/indications/DBCOND0037926
+Drugs:
+Gemcitabine https://www.drugbank.ca/DB00441
+Oxaliplatin https://www.drugbank.ca/DB00526
+Paclitaxel https://www.drugbank.ca/DB01229
+Rucaparib https://www.drugbank.ca/DB12332
+
+
+Indication:
+Metastatic Anal cancer https://www.drugbank.ca/indications/DBCOND0021462
+Drugs:
+Cisplatin https://www.drugbank.ca/DB00515
+
+
+Indication:
+Metastatic Medullary Thyroid Cancer https://www.drugbank.ca/indications/DBCOND0040045
+Drugs:
+Iodide I-131 https://www.drugbank.ca/DB09293
+Vandetanib https://www.drugbank.ca/DB05294
+
+
+Indication:
+Cancer of the Ovary https://www.drugbank.ca/indications/DBCOND0034847
+Drugs:
+Altretamine https://www.drugbank.ca/DB00488
+Bleomycin https://www.drugbank.ca/DB00290
+Dactinomycin https://www.drugbank.ca/DB00970
+Etoposide https://www.drugbank.ca/DB00773
+Ifosfamide https://www.drugbank.ca/DB01181
+Irinotecan https://www.drugbank.ca/DB00762
+Paclitaxel https://www.drugbank.ca/DB01229
+Pemetrexed https://www.drugbank.ca/DB00642
+Tamoxifen https://www.drugbank.ca/DB00675
+
+
+Indication:
+Lung Cancers https://www.drugbank.ca/indications/DBCOND0072929
+Drugs:
+Cyclophosphamide https://www.drugbank.ca/DB00531
+
+
+Indication:
+Metastatic Hepatic Cancer https://www.drugbank.ca/indications/DBCOND0111822
+Drugs:
+Floxuridine https://www.drugbank.ca/DB00322
+
+
+Indication:
+Metastatic Biliary Tract Cancer https://www.drugbank.ca/indications/DBCOND0046438
+Drugs:
+Gemcitabine https://www.drugbank.ca/DB00441
+
+
+Indication:
+Cancer chemotherapy https://www.drugbank.ca/indications/DBCOND0021396
+Drugs:
+Aprepitant https://www.drugbank.ca/DB00673
+Granisetron https://www.drugbank.ca/DB00889
+Nabilone https://www.drugbank.ca/DB00486
+
+
+Indication:
+Inoperable, metastatic Breast cancer https://www.drugbank.ca/indications/DBCOND0021988
+Drugs:
+Fluoxymesterone https://www.drugbank.ca/DB01185
+Testosterone https://www.drugbank.ca/DB00624
+
+
+Indication:
+Refractory, metastatic Breast cancer https://www.drugbank.ca/indications/DBCOND0023213
+Drugs:
+Eribulin https://www.drugbank.ca/DB08871
+Fulvestrant https://www.drugbank.ca/DB00947
+Lapatinib https://www.drugbank.ca/DB01259
+Palbociclib https://www.drugbank.ca/DB09073
+
+
+Indication:
+Cancer, Advanced https://www.drugbank.ca/indications/DBCOND0041606
+Drugs:
+Cannabidiol https://www.drugbank.ca/DB09061
+
+
+Indication:
+Malignant Neoplasm of Colon https://www.drugbank.ca/indications/DBCOND0076899
+Drugs:
+Fluorouracil https://www.drugbank.ca/DB00544
+
+
+Indication:
+Ovarian Cancer Stage III https://www.drugbank.ca/indications/DBCOND0074386
+Drugs:
+Altretamine https://www.drugbank.ca/DB00488
+
+
+Indication:
+Lung Cancer Non-Small Cell Cancer (NSCLC) https://www.drugbank.ca/indications/DBCOND0046916
+Drugs:
+Cisplatin https://www.drugbank.ca/DB00515
+Dacomitinib https://www.drugbank.ca/DB11963
+Erlotinib https://www.drugbank.ca/DB00530
+Etoposide https://www.drugbank.ca/DB00773
+Irinotecan https://www.drugbank.ca/DB00762
+Mitomycin https://www.drugbank.ca/DB00305
+Paclitaxel https://www.drugbank.ca/DB01229
+Vinblastine https://www.drugbank.ca/DB00570
+
+
+Indication:
+Refractory Small cell lung cancer https://www.drugbank.ca/indications/DBCOND0021526
+Drugs:
+Cyclophosphamide https://www.drugbank.ca/DB00531
+Paclitaxel https://www.drugbank.ca/DB01229
+
+
+Indication:
+Non-Cancer Chronic Pain https://www.drugbank.ca/indications/DBCOND0086522
+Drugs:
+Methylnaltrexone https://www.drugbank.ca/DB06800
+
+
+Indication:
+Refractory Advanced Ovarian Cancer https://www.drugbank.ca/indications/DBCOND0112032
+Drugs:
+Olaparib https://www.drugbank.ca/DB09074
+
+
+Indication:
+Refractory, advanced Breast cancer https://www.drugbank.ca/indications/DBCOND0023190
+Drugs:
+Anastrozole https://www.drugbank.ca/DB01217
+Everolimus https://www.drugbank.ca/DB01590
+Exemestane https://www.drugbank.ca/DB00990
+Fulvestrant https://www.drugbank.ca/DB00947
+Lapatinib https://www.drugbank.ca/DB01259
+Palbociclib https://www.drugbank.ca/DB09073
+
+
+Indication:
+Refractory, metastatic Colorectal cancer https://www.drugbank.ca/indications/DBCOND0023209
+Drugs:
+Ramucirumab https://www.drugbank.ca/DB05578
+Regorafenib https://www.drugbank.ca/DB08896
+
+
+Indication:
+Lung Cancer Small Cell Lung Cancer (SCLC) https://www.drugbank.ca/indications/DBCOND0046917
+Drugs:
+Cisplatin https://www.drugbank.ca/DB00515
+Docetaxel https://www.drugbank.ca/DB01248
+Etoposide https://www.drugbank.ca/DB00773
+Ifosfamide https://www.drugbank.ca/DB01181
+Irinotecan https://www.drugbank.ca/DB00762
+Methotrexate https://www.drugbank.ca/DB00563
+Vincristine https://www.drugbank.ca/DB00541
+
+
+Indication:
+Fallopian Tube Cancer https://www.drugbank.ca/indications/DBCOND0028487
+Drugs:
+Niraparib https://www.drugbank.ca/DB11793
+Olaparib https://www.drugbank.ca/DB09074
+Paclitaxel https://www.drugbank.ca/DB01229
+
+
+Indication:
+Metastatic Hormone Refractory Prostate Cancer https://www.drugbank.ca/indications/DBCOND0036371
+Drugs:
+Cyproterone acetate https://www.drugbank.ca/DB04839
+Docetaxel https://www.drugbank.ca/DB01248
+Estramustine https://www.drugbank.ca/DB01196
+Nilutamide https://www.drugbank.ca/DB00665
+
+
+Indication:
+Duke&#39;s C Colon cancer https://www.drugbank.ca/indications/DBCOND0025424
+Drugs:
+Capecitabine https://www.drugbank.ca/DB01101
+
+
+Indication:
+Metastatic Colorectal Cancers https://www.drugbank.ca/indications/DBCOND0063579
+Drugs:
+Aflibercept https://www.drugbank.ca/DB08885
+Bevacizumab https://www.drugbank.ca/DB00112
+Cetuximab https://www.drugbank.ca/DB00002
+Levoleucovorin https://www.drugbank.ca/DB11596
+Panitumumab https://www.drugbank.ca/DB01269
+Tipiracil https://www.drugbank.ca/DB09343
+Trifluridine https://www.drugbank.ca/DB00432
+
+
+Indication:
+Advanced Gastric Cancer https://www.drugbank.ca/indications/DBCOND0036667
+Drugs:
+Gimeracil https://www.drugbank.ca/DB09257
+Leucovorin https://www.drugbank.ca/DB00650
+Oteracil https://www.drugbank.ca/DB03209
+Ramucirumab https://www.drugbank.ca/DB05578
+Tegafur https://www.drugbank.ca/DB09256
+
+
+Indication:
+Ovarian Carcinoma https://www.drugbank.ca/indications/DBCOND0030071
+Drugs:
+Doxorubicin https://www.drugbank.ca/DB00997
+
+
+Indication:
+Advanced Cervical Cancer https://www.drugbank.ca/indications/DBCOND0046846
+Drugs:
+Carboplatin https://www.drugbank.ca/DB00958
+Paclitaxel https://www.drugbank.ca/DB01229
+
+
+Indication:
+Advanced Thyroid cancer https://www.drugbank.ca/indications/DBCOND0023292
+Drugs:
+Axitinib https://www.drugbank.ca/DB06626
+Pazopanib https://www.drugbank.ca/DB06589
+
+
+Indication:
+Metastatic Uterine cancer https://www.drugbank.ca/indications/DBCOND0025469
+Drugs:
+Anastrozole https://www.drugbank.ca/DB01217
+
+
+Indication:
+Refractory Cervical cancer https://www.drugbank.ca/indications/DBCOND0020546
+Drugs:
+Bevacizumab https://www.drugbank.ca/DB00112
+
+
+Indication:
+Refractory Testicular cancer https://www.drugbank.ca/indications/DBCOND0021498
+Drugs:
+Etoposide https://www.drugbank.ca/DB00773
+Oxaliplatin https://www.drugbank.ca/DB00526
+
+
+Indication:
+Rectal Carcinoma https://www.drugbank.ca/indications/DBCOND0041015
+Drugs:
+Fluorouracil https://www.drugbank.ca/DB00544
+
+
+Indication:
+Testicular Cancer https://www.drugbank.ca/indications/DBCOND0029824
+Drugs:
+Bleomycin https://www.drugbank.ca/DB00290
+
+
+Indication:
+Locally Advanced Breast Cancer (LABC) https://www.drugbank.ca/indications/DBCOND0034432
+Drugs:
+Anastrozole https://www.drugbank.ca/DB01217
+Docetaxel https://www.drugbank.ca/DB01248
+Ixabepilone https://www.drugbank.ca/DB04845
+Pertuzumab https://www.drugbank.ca/DB06366
+Talazoparib https://www.drugbank.ca/DB11760
+
+
+Indication:
+Advanced Colorectal Cancer https://www.drugbank.ca/indications/DBCOND0034287
+Drugs:
+Leucovorin https://www.drugbank.ca/DB00650
+Levoleucovorin https://www.drugbank.ca/DB11596
+Oxaliplatin https://www.drugbank.ca/DB00526
+Raltitrexed https://www.drugbank.ca/DB00293
+
+
+Indication:
+Advanced Endometrial Cancer https://www.drugbank.ca/indications/DBCOND0050728
+Drugs:
+Carboplatin https://www.drugbank.ca/DB00958
+Doxorubicin https://www.drugbank.ca/DB00997
+Megestrol acetate https://www.drugbank.ca/DB00351
+
+
+Indication:
+Advanced Testicular cancer https://www.drugbank.ca/indications/DBCOND0021754
+Drugs:
+Carboplatin https://www.drugbank.ca/DB00958
+Vinblastine https://www.drugbank.ca/DB00570
+
+
+Indication:
+Cancer-associated hypercalcemia https://www.drugbank.ca/indications/DBCOND0106425
+Drugs:
+Bupivacaine https://www.drugbank.ca/DB00297
+
+
+Indication:
+Prophylaxis of Cancer https://www.drugbank.ca/indications/DBCOND0112764
+Drugs:
+Linoleic acid https://www.drugbank.ca/DB14104
+
+
+Indication:
+Refractory Breast cancer https://www.drugbank.ca/indications/DBCOND0021753
+Drugs:
+Vinblastine https://www.drugbank.ca/DB00570
+
+
+Indication:
+Refractory peritoneal cancer https://www.drugbank.ca/indications/DBCOND0022762
+Drugs:
+Capecitabine https://www.drugbank.ca/DB01101
+
+
+Indication:
+Severe Cancer pain https://www.drugbank.ca/indications/DBCOND0021807
+Drugs:
+Clonidine https://www.drugbank.ca/DB00575
+
+
+Indication:
+Stage D2 Prostatic carcinoma https://www.drugbank.ca/indications/DBCOND0021415
+Drugs:
+Bicalutamide https://www.drugbank.ca/DB01128
+Buserelin https://www.drugbank.ca/DB06719
+Flutamide https://www.drugbank.ca/DB00499
+
+
+Indication:
+Hormone refractory, advanced Prostate cancer https://www.drugbank.ca/indications/DBCOND0022915
+Drugs:
+Mitoxantrone https://www.drugbank.ca/DB01204
+
+
+Indication:
+Metastatic Non-Small Cell Lung Cancer https://www.drugbank.ca/indications/DBCOND0043377
+Drugs:
+Afatinib https://www.drugbank.ca/DB08916
+Atezolizumab https://www.drugbank.ca/DB11595
+Brigatinib https://www.drugbank.ca/DB12267
+Crizotinib https://www.drugbank.ca/DB08865
+Dacomitinib https://www.drugbank.ca/DB11963
+Docetaxel https://www.drugbank.ca/DB01248
+Erlotinib https://www.drugbank.ca/DB00530
+Gefitinib https://www.drugbank.ca/DB00317
+Necitumumab https://www.drugbank.ca/DB09559
+Osimertinib https://www.drugbank.ca/DB09330
+Paclitaxel https://www.drugbank.ca/DB01229
+
+
+Indication:
+Advanced Pancreatic Cancer https://www.drugbank.ca/indications/DBCOND0045345
+Drugs:
+Cisplatin https://www.drugbank.ca/DB00515
+Oxaliplatin https://www.drugbank.ca/DB00526
+
+
+Indication:
+Advanced Prostate Cancer https://www.drugbank.ca/indications/DBCOND0043429
+Drugs:
+Degarelix https://www.drugbank.ca/DB06699
+Histrelin https://www.drugbank.ca/DB06788
+Leuprolide https://www.drugbank.ca/DB00007
+Triptorelin https://www.drugbank.ca/DB06825
+
+
+Indication:
+Thyroidectomy, Thyroid cancer https://www.drugbank.ca/indications/DBCOND0020309
+Drugs:
+Thyrotropin alfa https://www.drugbank.ca/DB00024
+
+
+Indication:
+Advanced Bladder cancer https://www.drugbank.ca/indications/DBCOND0021244
+Drugs:
+Carboplatin https://www.drugbank.ca/DB00958
+Cisplatin https://www.drugbank.ca/DB00515
+Gemcitabine https://www.drugbank.ca/DB00441
+Paclitaxel https://www.drugbank.ca/DB01229
+
+
+Indication:
+Inoperable Ovarian cancer https://www.drugbank.ca/indications/DBCOND0025356
+Drugs:
+Hydroxyurea https://www.drugbank.ca/DB01005
+
+
+Indication:
+Nonmetastatic Prostate Cancer https://www.drugbank.ca/indications/DBCOND0112676
+Drugs:
+Apalutamide https://www.drugbank.ca/DB11901
+
+
+Indication:
+Refractory Ovarian cancer https://www.drugbank.ca/indications/DBCOND0022758
+Drugs:
+Capecitabine https://www.drugbank.ca/DB01101
+
+
+Indication:
+Colon Cancer Stage III https://www.drugbank.ca/indications/DBCOND0034227
+Drugs:
+Oxaliplatin https://www.drugbank.ca/DB00526
+
+
+Indication:
+Node Positive Breast Cancer https://www.drugbank.ca/indications/DBCOND0032497
+Drugs:
+Docetaxel https://www.drugbank.ca/DB01248
+
+
+Indication:
+Metastatic Castration Resistant Prostate Cancer https://www.drugbank.ca/indications/DBCOND0036665
+Drugs:
+Abiraterone https://www.drugbank.ca/DB05812
+Enzalutamide https://www.drugbank.ca/DB08899
+Prednisone https://www.drugbank.ca/DB00635
+
+
+Indication:
+Metastatic Thymic Cancer https://www.drugbank.ca/indications/DBCOND0111896
+Drugs:
+Etoposide https://www.drugbank.ca/DB00773
+
+
+Indication:
+Malignant Neoplasm of Stomach https://www.drugbank.ca/indications/DBCOND0045917
+Drugs:
+Capecitabine https://www.drugbank.ca/DB01101
+Cisplatin https://www.drugbank.ca/DB00515
+Fluorouracil https://www.drugbank.ca/DB00544
+Irinotecan https://www.drugbank.ca/DB00762
+Oxaliplatin https://www.drugbank.ca/DB00526
+Paclitaxel https://www.drugbank.ca/DB01229
+
+
+Indication:
+Thymic Cancer https://www.drugbank.ca/indications/DBCOND0036007
+Drugs:
+Cisplatin https://www.drugbank.ca/DB00515
+
+
+Indication:
+Stage B2 Prostatic Carcinoma https://www.drugbank.ca/indications/DBCOND0089462
+Drugs:
+Flutamide https://www.drugbank.ca/DB00499
+
+
+Indication:
+Breast Cancer Metastatic https://www.drugbank.ca/indications/DBCOND0038198
+Drugs:
+Gemcitabine https://www.drugbank.ca/DB00441
+
+
+Indication:
+Advanced Non-Small Cell Lung Cancer https://www.drugbank.ca/indications/DBCOND0030392
+Drugs:
+Carboplatin https://www.drugbank.ca/DB00958
+Vinorelbine https://www.drugbank.ca/DB00361
+
+
+Indication:
+Advanced Breast Cancer https://www.drugbank.ca/indications/DBCOND0031019
+Drugs:
+Abemaciclib https://www.drugbank.ca/DB12001
+Goserelin https://www.drugbank.ca/DB00014
+Letrozole https://www.drugbank.ca/DB01006
+Megestrol acetate https://www.drugbank.ca/DB00351
+Palbociclib https://www.drugbank.ca/DB09073
+Ribociclib https://www.drugbank.ca/DB11730
+
+
+Indication:
+Recurrent Endometrial Cancer https://www.drugbank.ca/indications/DBCOND0054384
+Drugs:
+Cisplatin https://www.drugbank.ca/DB00515
+
+
+Indication:
+Moderately emetogenic cancer chemotherapy https://www.drugbank.ca/indications/DBCOND0021043
+Drugs:
+Palonosetron https://www.drugbank.ca/DB00377
+
+
+Indication:
+Thyrotropin dependent Thyroid cancer https://www.drugbank.ca/indications/DBCOND0021309
+Drugs:
+Levothyroxine https://www.drugbank.ca/DB00451
+
+
+Indication:
+Cancer, Breast https://www.drugbank.ca/indications/DBCOND0054116
+Drugs:
+Anastrozole https://www.drugbank.ca/DB01217
+Cisplatin https://www.drugbank.ca/DB00515
+Conjugated estrogens https://www.drugbank.ca/DB00286
+Cyclophosphamide https://www.drugbank.ca/DB00531
+Fluorouracil https://www.drugbank.ca/DB00544
+Ibandronate https://www.drugbank.ca/DB00710
+Leuprolide https://www.drugbank.ca/DB00007
+Methotrexate https://www.drugbank.ca/DB00563
+Mitomycin https://www.drugbank.ca/DB00305
+Neratinib https://www.drugbank.ca/DB11828
+Pamidronic acid https://www.drugbank.ca/DB00282
+Tamoxifen https://www.drugbank.ca/DB00675
+Trastuzumab https://www.drugbank.ca/DB00072
+Venlafaxine https://www.drugbank.ca/DB00285
+
+
+Indication:
+Highly emetogenic cancer chemotherapy https://www.drugbank.ca/indications/DBCOND0021051
+Drugs:
+Palonosetron https://www.drugbank.ca/DB00377
+
+
+Indication:
+Refractory falopian tube cancer https://www.drugbank.ca/indications/DBCOND0022760
+Drugs:
+Capecitabine https://www.drugbank.ca/DB01101
+
+
+Indication:
+Lynch Syndrome https://www.drugbank.ca/indications/DBCOND0032992
+Drugs:
+Acetylsalicylic acid https://www.drugbank.ca/DB00945
+
+
+Indication:
+C Prostatic Carcinoma https://www.drugbank.ca/indications/DBCOND0089463
+Drugs:
+Flutamide https://www.drugbank.ca/DB00499
+
+
+Indication:
+Non-small Cell Lung Cancer (NSCLC), Stage IV https://www.drugbank.ca/indications/DBCOND0087270
+Drugs:
+Gemcitabine https://www.drugbank.ca/DB00441
+
+
+Indication:
+Metastatic Breast Cancer (MBC) https://www.drugbank.ca/indications/DBCOND0032947
+Drugs:
+Abemaciclib https://www.drugbank.ca/DB12001
+Anastrozole https://www.drugbank.ca/DB01217
+Bevacizumab https://www.drugbank.ca/DB00112
+Capecitabine https://www.drugbank.ca/DB01101
+Carboplatin https://www.drugbank.ca/DB00958
+Docetaxel https://www.drugbank.ca/DB01248
+Doxorubicin https://www.drugbank.ca/DB00997
+Estradiol https://www.drugbank.ca/DB00783
+Estrogens, esterified https://www.drugbank.ca/DB09381
+Ixabepilone https://www.drugbank.ca/DB04845
+Lapatinib https://www.drugbank.ca/DB01259
+Methyltestosterone https://www.drugbank.ca/DB06710
+Mitoxantrone https://www.drugbank.ca/DB01204
+Olaparib https://www.drugbank.ca/DB09074
+Paclitaxel https://www.drugbank.ca/DB01229
+Palbociclib https://www.drugbank.ca/DB09073
+Pertuzumab https://www.drugbank.ca/DB06366
+Ribociclib https://www.drugbank.ca/DB11730
+Talazoparib https://www.drugbank.ca/DB11760
+Tamoxifen https://www.drugbank.ca/DB00675
+Toremifene https://www.drugbank.ca/DB00539
+Trastuzumab https://www.drugbank.ca/DB00072
+Vinorelbine https://www.drugbank.ca/DB00361
+
+
+Indication:
+Metastatic Endometrial cancer https://www.drugbank.ca/indications/DBCOND0021457
+Drugs:
+Anastrozole https://www.drugbank.ca/DB01217
+Cisplatin https://www.drugbank.ca/DB00515
+
+
+Indication:
+Hepatobiliary Cancers https://www.drugbank.ca/indications/DBCOND0041878
+Drugs:
+Capecitabine https://www.drugbank.ca/DB01101
+Cisplatin https://www.drugbank.ca/DB00515
+
+
+Indication:
+Advanced Medullary thyroid cancer https://www.drugbank.ca/indications/DBCOND0022381
+Drugs:
+Dacarbazine https://www.drugbank.ca/DB00851
+
+
+Indication:
+Metastatic nonseminomatous Testicular cancer https://www.drugbank.ca/indications/DBCOND0022542
+Drugs:
+Dactinomycin https://www.drugbank.ca/DB00970
+
+
+Indication:
+Refractory, metastatic Ovarian cancer https://www.drugbank.ca/indications/DBCOND0025385
+Drugs:
+Topotecan https://www.drugbank.ca/DB01030
+
+
+Indication:
+Prostate Cancer https://www.drugbank.ca/indications/DBCOND0062462
+Drugs:
+Etoposide https://www.drugbank.ca/DB00773
+
+
+Indication:
+Penile Cancer https://www.drugbank.ca/indications/DBCOND0028492
+Drugs:
+Bleomycin https://www.drugbank.ca/DB00290
+
+
+Indication:
+Cancer treatment https://www.drugbank.ca/indications/DBCOND0020788
+Drugs:
+Allopurinol https://www.drugbank.ca/DB00437
+Dronabinol https://www.drugbank.ca/DB00470
+Erythropoietin https://www.drugbank.ca/DB00016
+Hyaluronidase (ovine) https://www.drugbank.ca/DB00070
+Sodium ferric gluconate complex https://www.drugbank.ca/DB09517
+Sucralfate https://www.drugbank.ca/DB00364
+Testosterone undecanoate https://www.drugbank.ca/DB13946
+
+
+Indication:
+Locally Advanced Non-Small Cell Lung Cancer https://www.drugbank.ca/indications/DBCOND0039376
+Drugs:
+Erlotinib https://www.drugbank.ca/DB00530
+Gemcitabine https://www.drugbank.ca/DB00441
+Paclitaxel https://www.drugbank.ca/DB01229
+Vinorelbine https://www.drugbank.ca/DB00361
+
+
+Indication:
+Endometrial Cancers https://www.drugbank.ca/indications/DBCOND0040363
+Drugs:
+Tamoxifen https://www.drugbank.ca/DB00675
+
+
+Indication:
+Refractory, metastatic Non small cell lung cancer https://www.drugbank.ca/indications/DBCOND0025490
+Drugs:
+Alectinib https://www.drugbank.ca/DB11363
+Ceritinib https://www.drugbank.ca/DB09063
+Docetaxel https://www.drugbank.ca/DB01248
+Nivolumab https://www.drugbank.ca/DB09035
+Pembrolizumab https://www.drugbank.ca/DB09037
+Ramucirumab https://www.drugbank.ca/DB05578
+Trastuzumab emtansine https://www.drugbank.ca/DB05773
+
+
+Indication:
+Stage I Breast Carcinoma https://www.drugbank.ca/indications/DBCOND0059537
+Drugs:
+Anastrozole https://www.drugbank.ca/DB01217
+Exemestane https://www.drugbank.ca/DB00990
+Goserelin https://www.drugbank.ca/DB00014
+Letrozole https://www.drugbank.ca/DB01006
+Pertuzumab https://www.drugbank.ca/DB06366
+
+
+Indication:
+Gastric Carcinoma https://www.drugbank.ca/indications/DBCOND0033196
+Drugs:
+Doxorubicin https://www.drugbank.ca/DB00997
+
+
+Indication:
+Vulvar Cancers https://www.drugbank.ca/indications/DBCOND0046120
+Drugs:
+Bleomycin https://www.drugbank.ca/DB00290
+
+
+Indication:
+Breakthrough Cancer Pain https://www.drugbank.ca/indications/DBCOND0042377
+Drugs:
+Fentanyl https://www.drugbank.ca/DB00813
+
+
+Indication:
+Advanced Small cell lung cancer https://www.drugbank.ca/indications/DBCOND0022521
+Drugs:
+Carboplatin https://www.drugbank.ca/DB00958
+
+
+Indication:
+Metastatic HR + HER2 - breast cancer https://www.drugbank.ca/indications/DBCOND0106218
+Drugs:
+Letrozole https://www.drugbank.ca/DB01006
+
+
+Indication:
+Refractory Testicular germ cell cancer https://www.drugbank.ca/indications/DBCOND0022938
+Drugs:
+Paclitaxel https://www.drugbank.ca/DB01229
+
+
+Indication:
+Advanced HR + HER2 - breast cancer https://www.drugbank.ca/indications/DBCOND0106217
+Drugs:
+Letrozole https://www.drugbank.ca/DB01006
+
+
+Indication:
+Advanced Hormone-dependent prostate cancer https://www.drugbank.ca/indications/DBCOND0106455
+Drugs:
+Estradiol valerate https://www.drugbank.ca/DB13956
+
+
+Indication:
+Castration resistant, metastatic Prostate cancer https://www.drugbank.ca/indications/DBCOND0089490
+Drugs:
+Radium Ra 223 Dichloride https://www.drugbank.ca/DB08913
+
+
+Indication:
+Locally advanced Medullary thyroid cancer https://www.drugbank.ca/indications/DBCOND0025580
+Drugs:
+Vandetanib https://www.drugbank.ca/DB05294
+
+
+Indication:
+Relapsed platinum-sensitive Ovarian cancer https://www.drugbank.ca/indications/DBCOND0025576
+Drugs:
+Trabectedin https://www.drugbank.ca/DB05109
+
+
+Indication:
+Primary Peritoneal Cancer https://www.drugbank.ca/indications/DBCOND0030277
+Drugs:
+Niraparib https://www.drugbank.ca/DB11793
+Olaparib https://www.drugbank.ca/DB09074
+
+
+Indication:
+Advanced Head and Neck Cancer https://www.drugbank.ca/indications/DBCOND0076376
+Drugs:
+Carboplatin https://www.drugbank.ca/DB00958
+Paclitaxel https://www.drugbank.ca/DB01229
+
+
+Indication:
+Locally Advanced Biliary Tract Cancer https://www.drugbank.ca/indications/DBCOND0046439
+Drugs:
+Gemcitabine https://www.drugbank.ca/DB00441
+
+
+Indication:
+Advanced androgen dependent Prostate cancer https://www.drugbank.ca/indications/DBCOND0022319
+Drugs:
+Estradiol https://www.drugbank.ca/DB00783
+
+
+Indication:
+Cisplatin therapy, advanced ovarian cancer https://www.drugbank.ca/indications/DBCOND0023850
+Drugs:
+Amifostine https://www.drugbank.ca/DB01143
+
+
+Indication:
+Inoperable, advanced, metastatic Breast Cancer https://www.drugbank.ca/indications/DBCOND0112674
+Drugs:
+Testosterone enanthate https://www.drugbank.ca/DB13944
+
+
+Indication:
+Progressive, metastatic Medullary thyroid cancer https://www.drugbank.ca/indications/DBCOND0023951
+Drugs:
+Cabozantinib https://www.drugbank.ca/DB08875
+
+
+Indication:
+Relapsed Small cell lung cancer https://www.drugbank.ca/indications/DBCOND0022641
+Drugs:
+Topotecan https://www.drugbank.ca/DB01030
+
+
+Indication:
+Malignant Neoplasm of Pancreas https://www.drugbank.ca/indications/DBCOND0087260
+Drugs:
+Fluorouracil https://www.drugbank.ca/DB00544
+Ifosfamide https://www.drugbank.ca/DB01181
+Irinotecan https://www.drugbank.ca/DB00762
+
+
+Indication:
+Breast Cancer Invasive Nos https://www.drugbank.ca/indications/DBCOND0033523
+Drugs:
+Raloxifene https://www.drugbank.ca/DB00481
+
+
+Indication:
+Malignancies https://www.drugbank.ca/indications/DBCOND0034613
+Drugs:
+Dexamethasone https://www.drugbank.ca/DB01234
+Linoleic acid https://www.drugbank.ca/DB14104
+Lipegfilgrastim https://www.drugbank.ca/DB13200
+Megestrol acetate https://www.drugbank.ca/DB00351
+Methylprednisolone https://www.drugbank.ca/DB00959
+Micafungin https://www.drugbank.ca/DB01141
+Modafinil https://www.drugbank.ca/DB00745
+Triamcinolone https://www.drugbank.ca/DB00620
+Valaciclovir https://www.drugbank.ca/DB00577
+
+
+Indication:
+Testicular Germ Cell Cancer https://www.drugbank.ca/indications/DBCOND0035375
+Drugs:
+Ifosfamide https://www.drugbank.ca/DB01181
+
+
+Indication:
+Asymptomatic, metastatic hormone-refractory Prostate cancer https://www.drugbank.ca/indications/DBCOND0023929
+Drugs:
+Sipuleucel-T https://www.drugbank.ca/DB06688
+
+
+Indication:
+Progressive radioactive iodine-refractory Thyroid cancer https://www.drugbank.ca/indications/DBCOND0025780
+Drugs:
+Lenvatinib https://www.drugbank.ca/DB09078
+
+
+Indication:
+Refractory Non-small cell lung cancer https://www.drugbank.ca/indications/DBCOND0025672
+Drugs:
+Vemurafenib https://www.drugbank.ca/DB08881
+
+
+Indication:
+Refractory, metastatic hormone-refractory Prostate cancer https://www.drugbank.ca/indications/DBCOND0025647
+Drugs:
+Cabazitaxel https://www.drugbank.ca/DB06772
+
+
+Indication:
+Breast Cancer Stage III https://www.drugbank.ca/indications/DBCOND0052877
+Drugs:
+Epirubicin https://www.drugbank.ca/DB00445
+
+
+Indication:
+Advanced Esophageal Cancers https://www.drugbank.ca/indications/DBCOND0029906
+Drugs:
+Carboplatin https://www.drugbank.ca/DB00958
+Leucovorin https://www.drugbank.ca/DB00650
+
+
+Indication:
+Metastatic MSI-H/dMMR colorectal cancer https://www.drugbank.ca/indications/DBCOND0112640
+Drugs:
+Ipilimumab https://www.drugbank.ca/DB06186
+
+
+Indication:
+Metastatic radioactive iodine-refractory Thyroid cancer https://www.drugbank.ca/indications/DBCOND0025778
+Drugs:
+Lenvatinib https://www.drugbank.ca/DB09078
+
+
+Indication:
+Recurrent platinum drug resistant Ovarian cancer https://www.drugbank.ca/indications/DBCOND0020553
+Drugs:
+Bevacizumab https://www.drugbank.ca/DB00112
+
+
+Indication:
+Head and Neck Carcinoma https://www.drugbank.ca/indications/DBCOND0050085
+Drugs:
+Bleomycin https://www.drugbank.ca/DB00290
+Cisplatin https://www.drugbank.ca/DB00515
+Hydroxyurea https://www.drugbank.ca/DB01005
+Ifosfamide https://www.drugbank.ca/DB01181
+Methotrexate https://www.drugbank.ca/DB00563
+Mitomycin https://www.drugbank.ca/DB00305
+
+
+Indication:
+Breast Adenocarcinoma https://www.drugbank.ca/indications/DBCOND0029215
+Drugs:
+Thiotepa https://www.drugbank.ca/DB04572
+
+
+Indication:
+Breast Cancer Stage II https://www.drugbank.ca/indications/DBCOND0035885
+Drugs:
+Epirubicin https://www.drugbank.ca/DB00445
+
+
+Indication:
+Recurrent, IV-B Cervical cancer https://www.drugbank.ca/indications/DBCOND0025384
+Drugs:
+Bevacizumab https://www.drugbank.ca/DB00112
+Irinotecan https://www.drugbank.ca/DB00762
+Pemetrexed https://www.drugbank.ca/DB00642
+Topotecan https://www.drugbank.ca/DB01030
+Vinorelbine https://www.drugbank.ca/DB00361
+
+
+Indication:
+Merkel cell cancer https://www.drugbank.ca/indications/DBCOND0022309
+Drugs:
+Etoposide https://www.drugbank.ca/DB00773
+
+
+Indication:
+Metastatic Bladder Cancer https://www.drugbank.ca/indications/DBCOND0054408
+Drugs:
+Docetaxel https://www.drugbank.ca/DB01248
+Gemcitabine https://www.drugbank.ca/DB00441
+Paclitaxel https://www.drugbank.ca/DB01229
+
+
+Indication:
+Acute delayed Nausea caused by cancer chemotherapy https://www.drugbank.ca/indications/DBCOND0112734
+Drugs:
+Fosnetupitant https://www.drugbank.ca/DB14019
+
+
+Indication:
+Metastatic nonsquamous non-small cell lung cancer https://www.drugbank.ca/indications/DBCOND0022053
+Drugs:
+Pembrolizumab https://www.drugbank.ca/DB09037
+Pemetrexed https://www.drugbank.ca/DB00642
+
+
+Indication:
+Minimally symptomatic, metastatic hormone-refractory Prostate cancer https://www.drugbank.ca/indications/DBCOND0023930
+Drugs:
+Sipuleucel-T https://www.drugbank.ca/DB06688
+
+
+Indication:
+Completely obstructive Non-small cell lung cancer https://www.drugbank.ca/indications/DBCOND0022196
+Drugs:
+Porfimer sodium https://www.drugbank.ca/DB00707
+
+
+Indication:
+Refractory, metastatic MSI-H/dMMR colorectal cancer https://www.drugbank.ca/indications/DBCOND0112651
+Drugs:
+Nivolumab https://www.drugbank.ca/DB09035
+
+
+Indication:
+Recurrent Cervical Cancer https://www.drugbank.ca/indications/DBCOND0028795
+Drugs:
+Bevacizumab https://www.drugbank.ca/DB00112
+Vinorelbine https://www.drugbank.ca/DB00361
+
+
+Indication:
+Nonleukemic meningeal cancer https://www.drugbank.ca/indications/DBCOND0021724
+Drugs:
+Methotrexate https://www.drugbank.ca/DB00563
+
+
+Indication:
+Pancreatic Cancer Metastatic https://www.drugbank.ca/indications/DBCOND0058909
+Drugs:
+Capecitabine https://www.drugbank.ca/DB01101
+Erlotinib https://www.drugbank.ca/DB00530
+Leucovorin https://www.drugbank.ca/DB00650
+
+
+Indication:
+Metastatic Penile cancer https://www.drugbank.ca/indications/DBCOND0021461
+Drugs:
+Cisplatin https://www.drugbank.ca/DB00515
+Paclitaxel https://www.drugbank.ca/DB01229
+
+
+Indication:
+Anal Carcinoma https://www.drugbank.ca/indications/DBCOND0036463
+Drugs:
+Mitomycin https://www.drugbank.ca/DB00305
+
+
+Indication:
+Acute delayed Vomiting caused by cancer chemotherapy https://www.drugbank.ca/indications/DBCOND0112736
+Drugs:
+Fosnetupitant https://www.drugbank.ca/DB14019
+
+
+Indication:
+Locally recurrent radioactive iodine-refractory Thyroid cancer https://www.drugbank.ca/indications/DBCOND0025779
+Drugs:
+Lenvatinib https://www.drugbank.ca/DB09078
+
+
+Indication:
+Microinvasive endobrachial Non-small cell lung cancer https://www.drugbank.ca/indications/DBCOND0022194
+Drugs:
+Porfimer sodium https://www.drugbank.ca/DB00707
+
+
+Indication:
+Non-myeloid malignancies, myelosuppressive anti-cancer drugs https://www.drugbank.ca/indications/DBCOND0020287
+Drugs:
+Pegfilgrastim https://www.drugbank.ca/DB00019
+
+
+Indication:
+Nonsquamous cell Non-small cell lung cancer https://www.drugbank.ca/indications/DBCOND0020550
+Drugs:
+Bevacizumab https://www.drugbank.ca/DB00112
+
+
+Indication:
+Partially obstructive Non-small cell lung cancer https://www.drugbank.ca/indications/DBCOND0022198
+Drugs:
+Porfimer sodium https://www.drugbank.ca/DB00707
+
+
+Indication:
+Recurrent platinum drug resistant Fallopian tube cancer https://www.drugbank.ca/indications/DBCOND0089459
+Drugs:
+Bevacizumab https://www.drugbank.ca/DB00112
+
+
+Indication:
+Recurrent platinum drug resistant primary peritoneal cancer https://www.drugbank.ca/indications/DBCOND0020559
+Drugs:
+Bevacizumab https://www.drugbank.ca/DB00112
+
+
+Indication:
+Thyroid Cancers https://www.drugbank.ca/indications/DBCOND0063689
+Drugs:
+Liothyronine https://www.drugbank.ca/DB00279
+Sunitinib https://www.drugbank.ca/DB01268
+
+
+Indication:
+Locally advanced untreated non small cell lung cancer https://www.drugbank.ca/indications/DBCOND0025494
+Drugs:
+Docetaxel https://www.drugbank.ca/DB01248
+
+
+Indication:
+Refractory, locally advanced Non small cell lung cancer https://www.drugbank.ca/indications/DBCOND0025489
+Drugs:
+Docetaxel https://www.drugbank.ca/DB01248
+
+
+Indication:
+Inflammatory carcinoma of the breast https://www.drugbank.ca/indications/DBCOND0017409
+Drugs:
+Pertuzumab https://www.drugbank.ca/DB06366
+
+
+Indication:
+Bladder Cancers https://www.drugbank.ca/indications/DBCOND0050427
+Drugs:
+Ifosfamide https://www.drugbank.ca/DB01181
+Leucovorin https://www.drugbank.ca/DB00650
+Methotrexate https://www.drugbank.ca/DB00563
+Mitomycin https://www.drugbank.ca/DB00305
+Vinblastine https://www.drugbank.ca/DB00570
+
+
+Indication:
+Cervical Cancers https://www.drugbank.ca/indications/DBCOND0032507
+Drugs:
+Bleomycin https://www.drugbank.ca/DB00290
+Cisplatin https://www.drugbank.ca/DB00515
+Ifosfamide https://www.drugbank.ca/DB01181
+Mitomycin https://www.drugbank.ca/DB00305
+Pembrolizumab https://www.drugbank.ca/DB09037
+
+
+Indication:
+Adenocarcinoma of the Ovaries https://www.drugbank.ca/indications/DBCOND0038690
+Drugs:
+Cyclophosphamide https://www.drugbank.ca/DB00531
+Thiotepa https://www.drugbank.ca/DB04572
+
+
+Indication:
+Locally Advanced Pancreatic Cancer https://www.drugbank.ca/indications/DBCOND0040768
+Drugs:
+Erlotinib https://www.drugbank.ca/DB00530
+
+
+Indication:
+Refractory, locally advanced Non-small cell lung cancer https://www.drugbank.ca/indications/DBCOND0025689
+Drugs:
+Ceritinib https://www.drugbank.ca/DB09063
+
+
+Indication:
+Malignant Solid Tumours https://www.drugbank.ca/indications/DBCOND0053117
+Drugs:
+Larotrectinib https://www.drugbank.ca/DB14723
+
+
+Indication:
+Metastatic Endometrial carcinoma https://www.drugbank.ca/indications/DBCOND0021883
+Drugs:
+Medroxyprogesterone acetate https://www.drugbank.ca/DB00603
+
+
+Indication:
+Locally advanced nonsquamous non-small cell lung cancer https://www.drugbank.ca/indications/DBCOND0022054
+Drugs:
+Pemetrexed https://www.drugbank.ca/DB00642
+
+
+Indication:
+Refractory, metastatic squamous cell Non-small cell lung cancer https://www.drugbank.ca/indications/DBCOND0023505
+Drugs:
+Afatinib https://www.drugbank.ca/DB08916
+
+
+Indication:
+Acute delayed Nausea caused by highly emetogenic cancer chemotherapy https://www.drugbank.ca/indications/DBCOND0112738
+Drugs:
+Fosnetupitant https://www.drugbank.ca/DB14019
+
+
+Indication:
+Acute delayed Vomiting caused by highly emetogenic cancer chemotherapy https://www.drugbank.ca/indications/DBCOND0112740
+Drugs:
+Fosnetupitant https://www.drugbank.ca/DB14019
+
+
+Indication:
+Advanced deleterious germline or somatic BRCA-mutated peritoneal cancer https://www.drugbank.ca/indications/DBCOND0116834
+Drugs:
+Olaparib https://www.drugbank.ca/DB09074
+
+
+Indication:
+Urothelial carcinoma ureter metastatic https://www.drugbank.ca/indications/DBCOND0089354
+Drugs:
+Atezolizumab https://www.drugbank.ca/DB11595
+Durvalumab https://www.drugbank.ca/DB11714
+Pembrolizumab https://www.drugbank.ca/DB09037
+Pemetrexed https://www.drugbank.ca/DB00642
+
+
+Indication:
+Dental Cavity https://www.drugbank.ca/indications/DBCOND0068550
+Drugs:
+Alcloxa https://www.drugbank.ca/DB11205
+Nicotine https://www.drugbank.ca/DB00184
+Sodium fluorophosphate https://www.drugbank.ca/DB09484
+Stannous fluoride https://www.drugbank.ca/DB11092
+Triclosan https://www.drugbank.ca/DB08604
+
+
+Indication:
+Thyroid Carcinoma https://www.drugbank.ca/indications/DBCOND0032753
+Drugs:
+Doxorubicin https://www.drugbank.ca/DB00997
+Iodide I-131 https://www.drugbank.ca/DB09293
+
+
+Indication:
+Doxorubicin dose of &gt;300 mg/m2, Metastatic breast cancer https://www.drugbank.ca/indications/DBCOND0021056
+Drugs:
+Dexrazoxane https://www.drugbank.ca/DB00380
+
+
+Indication:
+Hypercalcemia of Malignancy https://www.drugbank.ca/indications/DBCOND0028695
+Drugs:
+Betamethasone https://www.drugbank.ca/DB00443
+Clodronic acid https://www.drugbank.ca/DB00720
+Cortisone acetate https://www.drugbank.ca/DB01380
+Hydrocortisone https://www.drugbank.ca/DB00741
+Ibandronate https://www.drugbank.ca/DB00710
+Pamidronic acid https://www.drugbank.ca/DB00282
+Prednisolone https://www.drugbank.ca/DB00860
+Prednisone https://www.drugbank.ca/DB00635
+Risedronic acid https://www.drugbank.ca/DB00884
+Zoledronic acid https://www.drugbank.ca/DB00399
+
+
+Indication:
+Advanced deleterious germline or somatic BRCA-mutated fallopian tube cancer https://www.drugbank.ca/indications/DBCOND0116832
+Drugs:
+Olaparib https://www.drugbank.ca/DB09074
+
+
+Indication:
+Stage M1 hormone dependent carcinoma of the prostate https://www.drugbank.ca/indications/DBCOND0020271
+Drugs:
+Goserelin https://www.drugbank.ca/DB00014
+
+
+Indication:
+Invasive Breast Carcinoma https://www.drugbank.ca/indications/DBCOND0031787
+Drugs:
+Tamoxifen https://www.drugbank.ca/DB00675
+
+
+Indication:
+Advanced deleterious germline or somatic BRCA-mutated advanced epthelial ovarian cancer https://www.drugbank.ca/indications/DBCOND0116830
+Drugs:
+Olaparib https://www.drugbank.ca/DB09074
+
+
+Indication:
+Radiation therapy, Head and neck cancer https://www.drugbank.ca/indications/DBCOND0025755
+Drugs:
+Amifostine https://www.drugbank.ca/DB01143
+
+
+Indication:
+Dental Plaque https://www.drugbank.ca/indications/DBCOND0001896
+Drugs:
+Eucalyptol https://www.drugbank.ca/DB03852
+Thymol https://www.drugbank.ca/DB02513
+Triclosan https://www.drugbank.ca/DB08604
+
+
+Indication:
+Esophageal Cancers https://www.drugbank.ca/indications/DBCOND0045726
+Drugs:
+Capecitabine https://www.drugbank.ca/DB01101
+Cisplatin https://www.drugbank.ca/DB00515
+Docetaxel https://www.drugbank.ca/DB01248
+Irinotecan https://www.drugbank.ca/DB00762
+Oxaliplatin https://www.drugbank.ca/DB00526
+Paclitaxel https://www.drugbank.ca/DB01229
+Porfimer sodium https://www.drugbank.ca/DB00707
+Vinorelbine https://www.drugbank.ca/DB00361
+
+
+Indication:
+Progressive, metastatic Anaplastic lymphoma kinase-positive Metastatic Non-Small Cell Lung Cancer https://www.drugbank.ca/indications/DBCOND0115978
+Drugs:
+Lorlatinib https://www.drugbank.ca/DB12130
+
+
+Indication:
+Metastatic Brain Tumors https://www.drugbank.ca/indications/DBCOND0058867
+Drugs:
+Carmustine https://www.drugbank.ca/DB00262
+Lomustine https://www.drugbank.ca/DB01206
+Prednisone https://www.drugbank.ca/DB00635
+Triamcinolone https://www.drugbank.ca/DB00620
+
+
+Indication:
+Metastatic Squamous Cell Carcinoma of the Head and Neck https://www.drugbank.ca/indications/DBCOND0075353
+Drugs:
+Cetuximab https://www.drugbank.ca/DB00002
+
+
+Indication:
+Malignant Peritoneal Neoplasm https://www.drugbank.ca/indications/DBCOND0073968
+Drugs:
+Olaparib https://www.drugbank.ca/DB09074
+Paclitaxel https://www.drugbank.ca/DB01229
+
+
+Indication:
+Carcinoma, Bronchogenic https://www.drugbank.ca/indications/DBCOND0031061
+Drugs:
+Doxorubicin https://www.drugbank.ca/DB00997
+Mechlorethamine https://www.drugbank.ca/DB00888
+
+
+Indication:
+Gingival Inflammation https://www.drugbank.ca/indications/DBCOND0073735
+Drugs:
+Eucalyptol https://www.drugbank.ca/DB03852
+Triclosan https://www.drugbank.ca/DB08604
+
+
+Indication:
+Papillary transitional cell carcinoma of bladder https://www.drugbank.ca/indications/DBCOND0089350
+Drugs:
+Thiotepa https://www.drugbank.ca/DB04572
+
+
+Indication:
+Squamous Cell Carcinoma of Lung https://www.drugbank.ca/indications/DBCOND0066692
+Drugs:
+Methotrexate https://www.drugbank.ca/DB00563
+
+
+Indication:
+Bone Metastases https://www.drugbank.ca/indications/DBCOND0028830
+Drugs:
+Denosumab https://www.drugbank.ca/DB06643
+Ibandronate https://www.drugbank.ca/DB00710
+Testosterone enanthate https://www.drugbank.ca/DB13944
+Zoledronic acid https://www.drugbank.ca/DB00399
+
+
+Indication:
+Osteolytic Bone metastases https://www.drugbank.ca/indications/DBCOND0022211
+Drugs:
+Clodronic acid https://www.drugbank.ca/DB00720
+Pamidronic acid https://www.drugbank.ca/DB00282
+
+
+Indication:
+Painful skeletal metastases https://www.drugbank.ca/indications/DBCOND0024050
+Drugs:
+Strontium chloride Sr-89 https://www.drugbank.ca/DB09498
+
+
+Indication:
+Soft Tissue Sarcoma (STS) https://www.drugbank.ca/indications/DBCOND0056871
+Drugs:
+Docetaxel https://www.drugbank.ca/DB01248
+Doxorubicin https://www.drugbank.ca/DB00997
+Ifosfamide https://www.drugbank.ca/DB01181
+Methotrexate https://www.drugbank.ca/DB00563
+Olaratumab https://www.drugbank.ca/DB06043
+Sunitinib https://www.drugbank.ca/DB01268
+Tasonermin https://www.drugbank.ca/DB11626
+Temozolomide https://www.drugbank.ca/DB00853
+Vinorelbine https://www.drugbank.ca/DB00361
+
+
+Indication:
+Osteoblastic metastatic bone lesions https://www.drugbank.ca/indications/DBCOND0024053
+Drugs:
+Samarium (153Sm) lexidronam https://www.drugbank.ca/DB05273
+
+
+Indication:
+Renal Cell Adenocarcinoma https://www.drugbank.ca/indications/DBCOND0055462
+Drugs:
+Nivolumab https://www.drugbank.ca/DB09035
+
+
+Indication:
+Hypertrophic Obstructive Cardiomyopathy https://www.drugbank.ca/indications/DBCOND0068622
+Drugs:
+Ethanol https://www.drugbank.ca/DB00898
+
+
+Indication:
+Fat occlusion in central venous catheter https://www.drugbank.ca/indications/DBCOND0022419
+Drugs:
+Ethanol https://www.drugbank.ca/DB00898
+
+
+Indication:
+Methanol overdose https://www.drugbank.ca/indications/DBCOND0022421
+Drugs:
+Ethanol https://www.drugbank.ca/DB00898
+
+
+Indication:
+Bacterial Infections https://www.drugbank.ca/indications/DBCOND0027917
+Drugs:
+Ampicillin https://www.drugbank.ca/DB00415
+Avibactam https://www.drugbank.ca/DB09060
+Bacitracin https://www.drugbank.ca/DB00626
+Benzylpenicillin https://www.drugbank.ca/DB01053
+Bronopol https://www.drugbank.ca/DB13960
+Cefaclor https://www.drugbank.ca/DB00833
+Cefadroxil https://www.drugbank.ca/DB01140
+Cefazolin https://www.drugbank.ca/DB01327
+Cefditoren https://www.drugbank.ca/DB01066
+Cefepime https://www.drugbank.ca/DB01413
+Cefotaxime https://www.drugbank.ca/DB00493
+Cefotetan https://www.drugbank.ca/DB01330
+Cefoxitin https://www.drugbank.ca/DB01331
+Cefpodoxime https://www.drugbank.ca/DB01416
+Cefprozil https://www.drugbank.ca/DB01150
+Ceftaroline fosamil https://www.drugbank.ca/DB06590
+Ceftazidime https://www.drugbank.ca/DB00438
+Ceftibuten https://www.drugbank.ca/DB01415
+Ceftriaxone https://www.drugbank.ca/DB01212
+Cefuroxime https://www.drugbank.ca/DB01112
+Chloramphenicol https://www.drugbank.ca/DB00446
+Cilastatin https://www.drugbank.ca/DB01597
+Clarithromycin https://www.drugbank.ca/DB01211
+Clavulanic acid https://www.drugbank.ca/DB00766
+Clindamycin https://www.drugbank.ca/DB01190
+Cloxacillin https://www.drugbank.ca/DB01147
+Colistimethate https://www.drugbank.ca/DB01111
+Dalbavancin https://www.drugbank.ca/DB06219
+Dalfopristin https://www.drugbank.ca/DB01764
+Diazolidinylurea https://www.drugbank.ca/DB14173
+Doripenem https://www.drugbank.ca/DB06211
+Erythromycin https://www.drugbank.ca/DB00199
+Ethanol https://www.drugbank.ca/DB00898
+Gemifloxacin https://www.drugbank.ca/DB01155
+Gentamicin https://www.drugbank.ca/DB00798
+Hexachlorophene https://www.drugbank.ca/DB00756
+Imipenem https://www.drugbank.ca/DB01598
+Levofloxacin https://www.drugbank.ca/DB01137
+Linezolid https://www.drugbank.ca/DB00601
+Meropenem https://www.drugbank.ca/DB00760
+Metronidazole https://www.drugbank.ca/DB00916
+Minocycline https://www.drugbank.ca/DB01017
+Nafcillin https://www.drugbank.ca/DB00607
+Neomycin https://www.drugbank.ca/DB00994
+Ofloxacin https://www.drugbank.ca/DB01165
+Phenoxymethylpenicillin https://www.drugbank.ca/DB00417
+Polymyxin B sulfate https://www.drugbank.ca/DB00781
+Probenecid https://www.drugbank.ca/DB01032
+Procaine benzylpenicillin https://www.drugbank.ca/DB09320
+Quinupristin https://www.drugbank.ca/DB01369
+Rifaximin https://www.drugbank.ca/DB01220
+Spiramycin https://www.drugbank.ca/DB06145
+Streptomycin https://www.drugbank.ca/DB01082
+Sulbactam https://www.drugbank.ca/DB09324
+Sulfamethoxazole https://www.drugbank.ca/DB01015
+Tedizolid phosphate https://www.drugbank.ca/DB09042
+Telavancin https://www.drugbank.ca/DB06402
+Tetracycline https://www.drugbank.ca/DB00759
+Tigecycline https://www.drugbank.ca/DB00560
+
+
+Indication:
+Ethylene glycol overdose https://www.drugbank.ca/indications/DBCOND0022418
+Drugs:
+Ethanol https://www.drugbank.ca/DB00898
+
+
+Indication:
+Prophylaxis of infection in minor cuts, scrapes, or burns https://www.drugbank.ca/indications/DBCOND0021992
+Drugs:
+Bacitracin https://www.drugbank.ca/DB00626
+Cefuroxime https://www.drugbank.ca/DB01112
+Ethanol https://www.drugbank.ca/DB00898
+Hexachlorophene https://www.drugbank.ca/DB00756
+Levofloxacin https://www.drugbank.ca/DB01137
+
+
