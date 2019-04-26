@@ -8,21 +8,21 @@ Python DrugBank_spider4.0.py [indication_name] [format]
 
 indication_name: 
 
-&nbsp&nbsp  the name of the disease to be searched, with a space to split if multiple indications are needed. 
+&nbsp;&nbsp;  the name of the disease to be searched, with a space to split if multiple indications are needed. 
 
-&nbsp&nbsp  for example: 
+&nbsp;&nbsp;  for example: 
 
-&nbsp&nbsp  lung_cancer intestine_cancer 
+&nbsp;&nbsp;  lung_cancer intestine_cancer 
 
 format:
 
 **csv**:
 
-&nbsp&nbsp  If you want to output .csv format file.
+&nbsp;&nbsp;  If you want to output .csv format file.
 
 **txt**:
 
-&nbsp&nbsp  If you want to output .txt format file.
+&nbsp;&nbsp;  If you want to output .txt format file.
   
 Case example:
 
