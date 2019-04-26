@@ -4,11 +4,15 @@ It is a simple too for users to crab drug data(name &amp; links) for a specific 
 Windows/Linux are all supported.
 
 Usage:
+
 Python DrugBank_spider4.0.py [indication_name] [format]
 
 indication_name:
+
 &nbsp;&nbsp;  the name of the disease to be searched, with a space to split if multiple indications are needed. 
+
 for example: 
+
 &nbsp;&nbsp;  lung_cancer intestine_cancer 
 
 format:
