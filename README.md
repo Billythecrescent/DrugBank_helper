@@ -1,5 +1,5 @@
 # DrugBank_helper
-It is a simple too for users to crab drug data(name &amp; links) for a specific Indication (disease).
+It is a simple tool for users to crab drug data(name &amp; links) for a specific Indication (disease).
 
 Windows/Linux are all supported.
 
